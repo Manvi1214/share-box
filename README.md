@@ -61,3 +61,16 @@ npm run dev
 ```
 
 The application will be live at `http://localhost:5173/`.
+
+---
+
+## 👥 Contributors
+
+- **Manvi Agrawal** — [@Manvi1214](https://github.com/Manvi1214)
+- **Krish Gupta** — [@Krish6004](https://github.com/Krish6004)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
